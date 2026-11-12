@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, friend!
 
-<!--
-**smill841/smill841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Sylvi**. I'm a university student working towards my B.Sc. in Computer Science. I am fairly new to making contributions to open source projects, so I am currently sticking to running tests and performing small bug fixes. I am also semi-fluent in French and can perform basic translations. 
 
-Here are some ideas to get you started:
+I do **not** use GenAI/LLMs in the creation of my programs or translations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Gmail:** <smill841@gmail.com>
+
+---
+
+The programming languages I have the most experience with:
+- C/C++
+- Python
+- Java
+
+If you're having a bad day, then here's a link to the [origin of my profile photo.](https://archive.org/details/dave-the-brave-meets-the-big-orange-monster)
+
